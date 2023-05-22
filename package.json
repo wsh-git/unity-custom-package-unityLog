@@ -1,0 +1,11 @@
+{
+  "name": "com.wshunity.log",
+  "displayName": "Wsh Unity Log",
+  "version": "0.0.1",
+  "unity": "2017.2",
+  "keywords": [
+    "Log"
+  ],
+  "description": "This is a very system log.",
+  "repository": {}
+}
