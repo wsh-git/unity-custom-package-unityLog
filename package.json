@@ -8,7 +8,7 @@
   ],
   "description": "This is a very simple log system.",
   "repository": {
-    "url": "https://github.com/wsh-git/unityLog.git",
+    "url": "https://github.com/wsh-git/unity-custom-package-unityLog.git",
     "type": "git",
     "revision": "b0740c80bfc2440527c317109f7c3d9100132722"
   }
