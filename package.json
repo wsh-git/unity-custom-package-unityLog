@@ -11,5 +11,10 @@
     "url": "https://github.com/wsh-git/unity-custom-package-unityLog.git",
     "type": "git",
     "revision": "081e81169811b6fa88a4ea522154e1c52e5304cb"
+  },
+  "author": {
+    "name": "wshunity",
+    "email": "",
+    "url": ""
   }
 }
